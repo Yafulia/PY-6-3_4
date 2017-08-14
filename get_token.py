@@ -20,4 +20,4 @@ auth_data = {
 #    (AUTHORIZE_URL, urlencode(auth_data))
 #))
 
-TOKEN = '59e4d2be565e6c2922989930df74e6a6a4daf63475c31195f3d469d629c6c8baafd74c96141d7a5f679c6'
+TOKEN = ''
